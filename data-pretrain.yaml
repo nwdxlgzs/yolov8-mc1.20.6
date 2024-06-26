@@ -1,0 +1,6 @@
+path: D:/project/pyproj/mcyolo/train/pretrain-datasets
+train: images/train
+val: images/val
+test:
+nc: 79
+names: [jiangshi,jiangshicunmin,jiangshizhuling,jiangshiyouzhushou,jiangshima,tuzi,diaoling,diaolingkulou,jielueshou,jieluezhe,beijixiong,weidaoshi,faguangyouyu,shilaimu,mougu,huanmozhe,xiutanshou,nvwu,shouweizhe,shiqiao,shanyang,yanjiangguai,huanshushi,huanyi,ehun,naogui,yueling,moyingren,moyingman,moyinglong,cunmin,hetun,dongxuezhizhu,liulangshangren,liulangzhe,haitun,haigui,nishi,qianyingbei,chizushou,lieyanren,redaiyu,xiongmao,niu,qiuyu,huli,lang,zhu,zhuling,zhulingmanbing,mao,youzhushou,jianshouzhe,yang,yangtuo,meixiyuan,kulipa,zhizhu,mifeng,kulou,kedou,bianfu,duchong,xingshangyangtuo,baomao,yuangushouweizhe,tiekuilei,xuekuilei,qingwa,ma,lv,luotuo,luo,kulouma,youyu,guiyu,xueyu,ji,yingwu]
